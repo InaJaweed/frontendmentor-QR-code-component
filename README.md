@@ -11,7 +11,7 @@
   - [Continued development](#continued-development)
   - [Useful resources](#useful-resources)
 - [Author](#author)
-- [Challange](#the-challange)
+- [Challenge](#the-challenge)
 
 
 ## Overview
@@ -62,14 +62,14 @@ I want to master HTML5 and CSS before I start on JavaScript and learn frameworks
 
 ### Useful resources
 
-[W3schools](https://www.w3schools.com/html/default.asp) - Helped me start and understand HTML5 elements
-[W3schools](https://www.w3schools.com/css/default.asp) - Helped me start and understand CSS properties
+- [W3schools](https://www.w3schools.com/html/default.asp) - Helped me start and understand HTML5 elements
+- [W3schools](https://www.w3schools.com/css/default.asp) - Helped me start and understand CSS properties
 
 
 ### Author
 
 - Frontend Mentor - [@InaJaweed](https://www.frontendmentor.io/profile/InaJaweed)
-## Challenge
+### Challenge
 **To do this challenge, you need a basic understanding of HTML and CSS.**
 
 The challenge was to build out this QR code component and get it looking as close to the design as possible.
