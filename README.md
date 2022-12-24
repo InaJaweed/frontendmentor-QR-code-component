@@ -24,12 +24,12 @@
 
 <div align="center">
   <h3>
-    <a href="" color="white">
+    <a href="https://inajaweed.github.io/frontendmentor-QR-code-component/" color="white">
       Live Website
     </a>
     <span> | </span>
-    <a href="">
-      Solution
+    <a href="https://www.frontendmentor.io/profile/InaJaweed">
+      Frtontend-mentor Profile 
     </a>
    <span> | </span>
     <a href="https://www.frontendmentor.io/challenges/qr-code-component-iux_sIO_H">
