@@ -24,7 +24,7 @@
 
 <div align="center">
   <h3>
-    <a href="https://inajaweed.github.io/frontendmentor-QR-code-component/" target="_blank"> color="white">
+    <a href="https://inajaweed.github.io/frontendmentor-QR-code-component/" color="white">
       Live Website
     </a>
     <span> | </span>
