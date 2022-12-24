@@ -11,7 +11,7 @@
   - [Continued development](#continued-development)
   - [Useful resources](#useful-resources)
 - [Author](#author)
-- [Challenge](#the-challenge)
+- [Challenge](#challenge)
 
 
 ## Overview
